@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on working on a website
 - 📫 How to reach me @tedxteddy on Ig  Youtube and Twitter(Tedx19)
 
+this is my website designbytedx.carrd.co
+
 <!---
 tedxteddy/tedxteddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
