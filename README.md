@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, art 2d 3d, ui/ux and much more 
 - 🌱 I’m currently learning animation web designing ( ui/ux )
 - 💞️ I’m looking to collaborate on working on a website
-- 📫 How to reach me @tedxteddy on Ig  Youtube and Twitter(Tedx19)
+- 📫 How to reach me @tedxteddy on Ig 
 
 this is my website designbytedx.carrd.co
 
