@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on working on a website
 - 📫 How to reach me @tedxteddy on Ig 
 
-this is my website designbytedx.carrd.co
+this is my website httips://designbytedx.framer.website
 
 <!---
 tedxteddy/tedxteddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
