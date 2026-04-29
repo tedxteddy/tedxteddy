@@ -31,32 +31,16 @@ Visual Designer & Frontend Developer from Siliguri, India
 
 <p align="left">
 
-[![Instagram](https://img.shields.io/badge/-@tedxteddy-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tedxteddy)
-[![Instagram](https://img.shields.io/badge/-@designbytedx-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/designbytedx)
-[![GitHub](https://img.shields.io/badge/-tedxteddy-181717?style=flat&logo=github&logoColor=white)](https://github.com/tedxteddy)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=website&logoColor=white)](https://designbytedx.framer.website)
-
+[![Instagram](https://instagram.com/tedtxteddy)[nIlnstagram](https://instagram.com/designbytedx)[gItHub](https://github.com/tedxteddy)[Portfolio](https://designbytedx.framer.website)
 </p>
 
 ---
 
-### 📊 Stats
+### � Stats
 
 <p align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tedxteddy&theme=vision_light&hide_border=true&title_color=EA580C&icon_color=EA580C)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tedxteddy&theme=vision_light)
-
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="left">
-
-![Profile Views](https://komarev.com/gh-profile?username=tedtxteddy&color=EA580C&style=flat)
+[Profile Views](https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/tedxteddy?color=EA580C&style=flat)
 </p>
 
