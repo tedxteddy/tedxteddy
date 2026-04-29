@@ -1,8 +1,9 @@
-
+# 
+<img src="https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/>
 
 ---
 
-### Hi, I'm Tashmoi Dey 👋
+Hi, I'm Tashmoi Dey 👋
 
 Visual Designer & Frontend Developer from Siliguri, India
 
@@ -55,9 +56,8 @@ Visual Designer & Frontend Developer from Siliguri, India
 
 <p align="left">
 
-![Profile Views](https://komarev.com/gh-profile?username=tedxteedy&color=EA580C&style=flat)
+![Profile Views](https://komarev.com/gh-profile?username=tedtxteddy&color=EA580C&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/tedxteddy?color=EA580C&style=flat)
-
 </p>
 
 ---
@@ -69,5 +69,5 @@ Visual Designer & Frontend Developer from Siliguri, India
 </p>
 
 <!---
-tedtxteddy/tedxteddy is a special repository because its README.md appears on your GitHub profile.
+Tedtxteddy/tedxteddy is a special repository because its README.md appears on your GitHub profile.
 --->
