@@ -1,4 +1,4 @@
-# <img src="https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/>
+# <img src="" alt="Profile Views"/>
 
 ## Hello, I'm Tashmoi Dey ([Designbytedx])
 
