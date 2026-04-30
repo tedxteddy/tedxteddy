@@ -1,4 +1,4 @@
-# <img src="https://komarev.come/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/>
+<img src="https://komarev.come/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/>
 <p align="center">
   <a href="https://github.com/tedxteddy">
     <img src="https://readme-typing-svg. demolab.come/?lines=Visual%20Designer%20%26%20Frontend%20Developer;Building%20pixel-perfect%20designs%20%26%20web%20experiences;I%27m%20from%20Siliguri%2C%20West%20Bengal%2C%20India&font=Fira%20Code¢er=true&width=500&height=45&color=EA580C&vCenter=true&pause=700&size=22" alt="Typing"/>
