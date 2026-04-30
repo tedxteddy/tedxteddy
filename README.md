@@ -1,5 +1,3 @@
-# <img src="" alt="Profile Views"/>
-
 ## Hello, I'm Tashmoi Dey ([Designbytedx])
 
 Visual Designer & Frontend Developer from Siliguri, West Bengal, India.
