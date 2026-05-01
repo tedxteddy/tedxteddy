@@ -1,4 +1,4 @@
-# <img src="https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/>
+# <a href="https://github.com/tedxteddy"><img src="https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat" alt="Profile Views"/></a>
 
 <p align="center">
   <a href="https://github.com/tedxteddy">
