@@ -1,4 +1,4 @@
-# **Tashmoi Dey** ([Designbytedx])
+# **Tashmoi Dey** ([TEDXTEDDY])
 
 Visual Designer from Siliguri, West Bengal, India. Crafting pixel-perfect designs and creative experiences.
 
