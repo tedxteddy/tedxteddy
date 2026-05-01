@@ -1,8 +1,4 @@
-# <a href="https://github.com/tedxteddy">![Profile Views](https://komarev.com/gh-profile?username=tedxteddy&color=EA580C&style=flat)</a>
-
----
-
-### Hi, I'm **Tashmoi Dey** ([Designbytedx])
+# **Tashmoi Dey** ([Designbytedx])
 
 Visual Designer from Siliguri, West Bengal, India. Crafting pixel-perfect designs and creative experiences.
 
