@@ -48,14 +48,6 @@ Visual Designer from Siliguri, West Bengal, India. Crafting pixel-perfect design
 
 ---
 
-## Featured Project
-
-<a href="https://github.com/tedxteddy/v-disk-explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tedxteddy&repo=v-disk-explorer&theme=react&hide_border=true&bg_color=0D1117&title_color=EA580C&icon_color=61DAFB" alt="v-disk-explorer"/>
-</a>
-
-> A virtual hard disk explorer web app — designed and built as a fun side project exploring web design.
-
 ---
 
 <div align="center">
