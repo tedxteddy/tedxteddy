@@ -19,7 +19,7 @@ Visual Designer from Siliguri, West Bengal, India. Crafting pixel-perfect design
 
 | Role | Organization | Period |
 |---|---|---|
-| Graphics Designer Intern | Hike (Rush Gaming & Bingo) | Present |
+| Graphics Designer Intern | Hike (Rush Gaming & Bingo) | 2025 |
 | Visual Designer | Braand School | Past |
 | Freelance Graphic Designer | Self-employed | 3+ Years |
 
